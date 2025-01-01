@@ -1,0 +1,13 @@
+{
+  "name": "translator",
+  "version": "1.0.0",
+  "description": "A simple translation tool",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  }
+}
